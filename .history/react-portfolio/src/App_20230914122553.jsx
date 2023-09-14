@@ -1,0 +1,21 @@
+import styles from './App.module.css'
+import About from './components/About/About'
+import Experience from './components/Experience/Experience'
+import Hero from './components/Hero/Hero'
+import NavBar from './components/NavBar/NavBar'
+
+function App() {
+
+  return (
+    <>
+      <div className={styles.App}>
+        <NavBar></NavBar>
+        <Hero></Hero>
+        <About></About>
+        <Experience/>
+      </div>
+    </>
+  )
+}
+
+export default App

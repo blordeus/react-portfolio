@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Front-End Developer",
+    "organization": "Frontend Mentor",
+    "startDate": "May, 2022",
+    "endDate": "Present",
+    "experiences": ["Completing coding challenges", "Building websites in a realistic workflow"],
+    "imageSrc": ""
+  },
+  {
+    "role": "UI Designer",
+    "organization": "Microsoft",
+    "startDate": "Aug, 2021",
+    "endDate": "Aug, 2022",
+    "experiences": ["Worked on Windows 11", "Designed the control panel"],
+    "imageSrc": ""
+  },
+  {
+    "role": "Web Designer",
+    "organization": "Riverside Church",
+    "startDate": "Dec, 2019",
+    "endDate": "March, 2020",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": ""
+  }
+]

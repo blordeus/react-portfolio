@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Notifications Page",
+    "imageSrc": "projects/project1.png",
+    "description": "This project was a test of my HTML, CSS, and basic JavaScript skills to toggle the visual state of the notifications.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://blordeus.github.io/notifications-page-main/",
+    "source": "https://github.com/blordeus/notifications-page-main"
+  },
+  {
+    "title": "Expenses Chart Component",
+    "imageSrc": "projects/project2.png",
+    "description": "I created a bar chart component from scratch, using the provide a local JSON file to display the data",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://blordeus.github.io/expenses-chart-component-main/",
+    "source": "https://github.com/blordeus/expenses-chart-component-main.git"
+  },
+  {
+    "title": "Advice Generator App",
+    "imageSrc": "projects/project3.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "Node"],
+    "demo": "https://blordeus.github.io/advice-generator-app-main/",
+    "source": "https://github.com/blordeus/advice-generator-app-main"
+  }
+]

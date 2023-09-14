@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Software Engineer",
+    "organization": "Frontend Mentor",
+    "startDate": "May, 2022",
+    "endDate": "Present",
+    "experiences": ["Completing coding challenges", "Reduced load times by 50%"],
+    "imageSrc": ""
+  },
+  {
+    "role": "UI Designer",
+    "organization": "Microsoft",
+    "startDate": "Aug, 2021",
+    "endDate": "Aug, 2022",
+    "experiences": ["Worked on Windows 11", "Designed the control panel"],
+    "imageSrc": ""
+  },
+  {
+    "role": "SWE Intern",
+    "organization": "Netflix",
+    "startDate": "Apr, 2020",
+    "endDate": "Jun, 2020",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": ""
+  }
+]

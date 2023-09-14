@@ -1,0 +1,6 @@
+@import "../../variables";
+
+.container {
+    color: var(--color-text);
+    margin-top: ;
+}
